@@ -1,8 +1,4 @@
-.main {
-    
-}
-
-
+/*author section*/
 .author {
     height: 472px;
     display: block;
@@ -18,7 +14,7 @@
     padding-right: 34px;
 }
 
-
+/*links section*/
 .links {
     height: 175px;
     text-align: center;
@@ -26,20 +22,24 @@
 }
 .links img {
     margin-left: 34px;
-    padding-top: 62px;
+    margin-top: 62px;
+}
+.links a:hover {
+    opacity: 0.7;
 }
 
-
+/*works section*/
 .works {
     text-align: center;
-    
 }
 .works img {
     padding-top: 22px;
     padding-left: 110px;
     padding-bottom: 22px;
+    
 }
 
+/*useful section*/
 .useful {
     height: 195px;
     text-align: center;
@@ -50,6 +50,9 @@
     margin: auto;
     padding-left: 35px;
     padding-bottom: 44px;
+}
+.useful a:hover {
+    opacity: 0.7;
 }
 .vivat {
     padding-top: 44px;

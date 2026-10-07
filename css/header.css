@@ -1,11 +1,8 @@
 .header {
     width: var(--width-up);
     height: var(--height-up);
-    
     background-color: var(--color-saphire);
-
     color: var(--color-silver)
-
 }
 
 .header h1 {

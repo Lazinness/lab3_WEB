@@ -1,7 +1,7 @@
 .menu {
     width: var(--width-up);
     height: var(--height-up);
-
+    font-size:  var(--font-size-menu);
     float: right;
     clear: both;
 
