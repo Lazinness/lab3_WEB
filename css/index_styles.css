@@ -1,0 +1,26 @@
+@import url(base.css);
+@import url(reset.css);
+
+@import url(menu.css);
+@import url(header.css);
+@import url(main.css);
+@import url(addon.css);
+@import url(footer.css);
+
+body {
+    margin: auto;
+    max-width: var(--width);
+}
+
+.container {
+    width: var(--width);
+    background-color: var(--color-platinum);
+    color: var(--color-navy);
+    font-family: var(--font-family-text);
+    font-size: var(--font-size-p);
+}
+
+.block {
+    height: 100px;
+    display: flex; 
+}

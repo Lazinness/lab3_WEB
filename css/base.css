@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@font-face {
+    font-family: "Philosopher";
+    src: url("Fonts/Philosopher.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+
+/* COLOR */
+    --color-platinum:rgba(229, 228, 226, 1);
+    --color-silver: rgba(209, 213, 219, 1);
+    --color-navy: rgba(28, 37, 65, 1);
+    --color-saphire: rgba(10, 17, 40, 1);
+/* FONT */
+    --font-family-text: "Philosopher";
+    --font-size-h1: 36px;
+    --font-size-menu: 26px;
+    --font-size-p: 24px;
+/* SIZE */
+    --width: 1440px;
+    --width-up: 720px;
+    --height-up: 100px;
+    --height-foot: 100px;
+/* PADDING */
+}

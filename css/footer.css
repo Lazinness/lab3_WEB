@@ -1,0 +1,20 @@
+.footer {
+    height: var(--height-foot);
+    background-color: var(--color-saphire);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer p {
+    color: var(--color-silver);
+    max-width: 360px;
+    padding-left: 35px;
+}
+.footer a:hover {
+    opacity: 0.7;
+}
+.footer img {
+    padding-right: 35px;
+}

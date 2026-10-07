@@ -1,0 +1,59 @@
+.main {
+    
+}
+
+
+.author {
+    height: 472px;
+    display: block;
+    clear: both;
+}
+.author img{
+    float: left;
+    padding-left: 85px;
+    padding-right: 74px;
+}
+.author p {
+    padding-top: 34px;
+    padding-right: 34px;
+}
+
+
+.links {
+    height: 175px;
+    text-align: center;
+    background-color: white;
+}
+.links img {
+    margin-left: 34px;
+    padding-top: 62px;
+}
+
+
+.works {
+    text-align: center;
+    
+}
+.works img {
+    padding-top: 22px;
+    padding-left: 110px;
+    padding-bottom: 22px;
+}
+
+.useful {
+    height: 195px;
+    text-align: center;
+    background-color: white;
+}
+
+.useful img {
+    margin: auto;
+    padding-left: 35px;
+    padding-bottom: 44px;
+}
+.vivat {
+    padding-top: 44px;
+}
+.leo {
+    padding-top: 56px;
+}

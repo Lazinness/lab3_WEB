@@ -1,0 +1,13 @@
+.addon {
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.addon p {
+    padding-right: 130px;
+    line-height: 126%;
+    font-weight: bold;
+}
